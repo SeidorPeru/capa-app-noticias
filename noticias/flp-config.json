@@ -1,0 +1,34 @@
+{
+    "application": {
+        "id": "",
+        "title": "appnoticias.noticias",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/",
+        "appUrl": "#noticias-Display",
+        "navigationComponentName": "appnoticias",
+        "intentSemanticObject": "noticias",
+        "intentAction": "Display",
+        "html5ApplicationName": "noticias",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "59b56b41-6aea-432e-803c-1a0368f265fb-1505053610097"
+        ],
+        "contentPackages": [
+            "57dd03db-8afa-4622-b555-44da72e330ec-1505054131166"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "Noticias",
+        "subtitle": "",
+        "searchKeywords": "Noticias,",
+        "displayIconUrl": "sap-icon://notification",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
